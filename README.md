@@ -22,9 +22,9 @@ Notebook Google Colab untuk pipeline lengkap pelatihan model pengenalan isyarat 
 - `label_encoder.pkl` — encoder label kelas
 
 ## Requirements
-tensorflow
-numpy
-pandas
-scikit-learn
-matplotlib
-joblib
+- tensorflow
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- joblib
