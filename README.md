@@ -1,6 +1,11 @@
 # BISINDO CNN-LSTM — Pipeline Pelatihan Model
 
 Notebook Google Colab untuk pipeline lengkap pelatihan model pengenalan isyarat BISINDO menggunakan arsitektur hybrid 1D CNN-LSTM, dari data mentah hasil akuisisi sarung tangan IoT hingga model siap pakai.
+---
+
+![alt text](https://github.com/iosramgio/sketch_esp32/blob/main/public/Screenshot%202026-08-10%20185406.png)
+
+---
 
 ## Alur Pipeline
 
